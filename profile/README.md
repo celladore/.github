@@ -13,7 +13,7 @@
 
 Celladore builds modular, verifiable developer infrastructure designed for autonomous agent fleets and production venture pipelines. Built by [Jurie Smit](https://github.com/justaghost) across 2.5 years of production engineering at [Phoenix VC](https://phoenixvc.tech).
 
-## Public & Open Source Engines
+## Public Engines
 
 | Project | What it does | License |
 |---|---|---|
