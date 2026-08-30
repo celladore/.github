@@ -18,7 +18,7 @@ Celladore builds modular, verifiable developer infrastructure designed for auton
 | Project | What it does | License |
 |---|---|---|
 | [**retort**](https://github.com/celladore/retort) | Core Windows-first agent-orchestration framework — agent teams, skills, quality gates, and governance | MIT |
-| [**xtox**](https://github.com/celladore/xtox) | Lossless multi-modal document converter & token-optimized AST flattener | MIT |
+| [**Mill**](https://github.com/celladore/mill) · [alpha](https://mill.celladoresystems.com) | Document and media conversion workspace for deterministic local tools and authenticated API transformations. Scoped CLI after registry publication: `npx @celladore/mill --help`; bare `npx mill` is not supported. | Unlicensed |
 | [**codeflow-engine**](https://github.com/celladore/codeflow-engine) | Temporal-durable AutoPR engine — automated PR synthesis and multi-agent review crews | MIT |
 | [**tokenutil**](https://github.com/celladore/tokenutil) | Token counting and document-chunking primitives for LLM workloads | MIT |
 
